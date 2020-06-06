@@ -3,7 +3,7 @@
  * Plugin Name: ACF For Gridsome
  * Description: Use gridsome with acf plugin
  * Author: Fuat POYRAZ
- * Author URI: https://github.com/ftpyz/acf-gridsome
+ * Author URI: https://gurmewoo.com
  * Version: 0.5
  * Plugin URI: https://github.com/ftpyz/acf-gridsome
  */
